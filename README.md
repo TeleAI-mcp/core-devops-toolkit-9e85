@@ -1,2 +1,3 @@
-# core-devops-toolkit-9e85
-A DevOps automation toolkit for modern development workflows
+# Core Devops Toolkit 9E85
+
+A DevOps automation toolkit for modern development workflows.
